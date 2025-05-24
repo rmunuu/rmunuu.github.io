@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/math/index.html";
           },
-        },{id: "books-the-godfather",
+        },{id: "post-test-post",
+        
+          title: "test post",
+        
+        description: "This is a test post on the math blog.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/test/";
+          
+        },
+      },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {

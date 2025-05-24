@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: blog_category
 permalink: /math/
 title: math
+category: math
 nav: true
 nav_order: 1
 pagination:

@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: blog_category
 permalink: /stat/
 title: stat
+category: stat
 nav: false
 nav_order: 1
 pagination:

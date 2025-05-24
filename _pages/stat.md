@@ -3,8 +3,8 @@ layout: blog_category
 permalink: /stat/
 title: stat
 category: stat
-nav: false
-nav_order: 1
+nav: true
+nav_order: 2
 pagination:
   enabled: true
   collection: posts
@@ -195,3 +195,12 @@ pagination:
 {% endif %}
 
 </div>
+
+
+<footer class="footer">
+  <p>
+    &copy; {{ site.time | date: "%Y" }} {{ site.first_name }} {{ site.last_name }}.
+    
+    <img src="https://hits.sh/rmunuu/rmunuu.github.io.svg?view=today-total" alt="Hit counter" style="vertical-align: middle; margin-left: 10px;" />
+  </p>
+</footer>

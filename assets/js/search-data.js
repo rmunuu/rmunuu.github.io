@@ -23,7 +23,25 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/stat/index.html";
           },
-        },{id: "post-표본분산이-χ-n-1-을-따르는-이유",
+        },{id: "nav-design",
+          title: "design",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/design/";
+          },
+        },{id: "post-제-1회-통계학-001-모의고사-및-해설",
+        
+          title: "제 1회 통계학 001 모의고사 및 해설",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/tongmo/";
+          
+        },
+      },{id: "post-표본분산이-χ-n-1-을-따르는-이유",
         
           title: "표본분산이 χ²(n-1)을 따르는 이유",
         
@@ -32,17 +50,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/%ED%91%9C%EB%B3%B8%EB%B6%84%EC%82%B0%EC%9D%B4-%EC%B9%B4%EC%9D%B4%EC%A0%9C%EA%B3%B1(n-1)%EC%9D%84-%EB%94%B0%EB%A5%B4%EB%8A%94-%EC%9D%B4%EC%9C%A0/";
-          
-        },
-      },{id: "post-test-post",
-        
-          title: "test post",
-        
-        description: "This is a test post on the math blog.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/test/";
           
         },
       },{id: "books-the-godfather",

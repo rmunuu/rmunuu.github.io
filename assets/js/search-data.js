@@ -23,8 +23,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/stat/index.html";
           },
-        },{id: "nav-design",
-          title: "design",
+        },{id: "nav-design-amp-art",
+          title: "design &amp; art",
           description: "",
           section: "Navigation",
           handler: () => {

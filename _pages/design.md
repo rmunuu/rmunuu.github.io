@@ -1,7 +1,7 @@
 ---
 layout: gallery
 permalink: /design/
-title: design
+title: design & art
 category: design
 nav: true
 nav_order: 3

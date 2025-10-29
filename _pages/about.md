@@ -6,7 +6,7 @@ subtitle: 601woojin@gmail.com
 
 profile:
   align: right
-  image: 
+  image: samgyupsal2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> </p>

@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/design/";
           },
-        },{id: "post-제-1회-통계학-001-모의고사-및-해설",
+        },{id: "post-적분부등식-뽀개기",
+        
+          title: "적분부등식 뽀개기",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/%EC%A0%81%EB%B6%84%EB%B6%80%EB%93%B1%EC%8B%9D/";
+          
+        },
+      },{id: "post-제-1회-통계학-001-모의고사-및-해설",
         
           title: "제 1회 통계학 001 모의고사 및 해설",
         
@@ -38,7 +49,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/tongmo/";
+            window.location.href = "/blog/2025/%ED%86%B5%EB%AA%A8/";
           
         },
       },{id: "post-표본분산이-χ-n-1-을-따르는-이유",

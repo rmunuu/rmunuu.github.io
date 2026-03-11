@@ -49,7 +49,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/%ED%86%B5%EB%AA%A8/";
+            window.location.href = "/blog/2025/tongmo/";
           
         },
       },{id: "post-표본분산이-χ-n-1-을-따르는-이유",
